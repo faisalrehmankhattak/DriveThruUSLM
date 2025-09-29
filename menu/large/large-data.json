@@ -1,0 +1,1807 @@
+{
+  "items": [
+    {
+      "id": 1,
+      "name": "6 Traditional Wings",
+      "description": "Award-winning & authentic Buffalo, New York-style wings. Free dip and veggies with every wings purchase | Spiciness: Varies by sauce | Sold by: piece",
+      "price": 11.79,
+      "modifiers": [
+        {
+          "id": 1,
+          "name": "Signature Sauce",
+          "options": [
+            "Honey Garlic",
+            "Buffalo Bleu",
+            "BBQ Ranch",
+            "Golden Fire (GO Exclusive)",
+            "Parmesan Garlic",
+            "Honey BBQ",
+            "Mild",
+            "Orange Chicken",
+            "Lemon Pepper",
+            "Teriyaki",
+            "Sweet BBQ",
+            "Medium",
+            "Spicy Garlic",
+            "Asian Zing®",
+            "Jammin Jalapeño",
+            "Caribbean Jerk",
+            "Nashville Hot",
+            "Hot",
+            "Mango Habanero™",
+            "Original Buffalo",
+            "Thai Curry",
+            "Blazin'® Knockout",
+            "Wild®",
+            "No Sauce Or Seasoning"
+          ],
+          "defaultOption": "Honey Garlic",
+          "priceAdjustment": {},
+          "maxAmount": 3
+        },
+        {
+          "id": 2,
+          "name": "Dry Seasoning (Optional)",
+          "options": [
+            "Lemon Pepper (Dry Seasoning)",
+            "Salt & Vinegar (Dry Seasoning)",
+            "Buffalo (Dry Seasoning)",
+            "Chipotle BBQ (Dry Seasoning)",
+            "Desert Heat® (Dry Seasoning)",
+            "No Dry Seasoning"
+          ],
+          "defaultOption": "No Dry Seasoning",
+          "priceAdjustment": {},
+          "maxAmount": 2
+        },
+        {
+          "id": 3,
+          "name": "Special Request",
+          "options": [
+            "Sauce on Side",
+            "All Flats",
+            "All Drums",
+            "No Special Request"
+          ],
+          "defaultOption": "No Special Request",
+          "priceAdjustment": {
+            "All Flats": 1.0,
+            "All Drums": 1.0
+          },
+          "maxAmount": 2
+        },
+        {
+          "id": 4,
+          "name": "Dips & Veggies",
+          "options": [
+            "Ranch",
+            "Carrots",
+            "Bleu Cheese",
+            "Celery",
+            "Carrots & Celery",
+            "No Dips & Veggies"
+          ],
+          "defaultOption": "Ranch",
+          "priceAdjustment": {},
+          "maxAmount": 3
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "10 Traditional Wings",
+      "description": "Award-winning & authentic Buffalo, New York-style wings. Free dip and veggies with every wings purchase | Spiciness: Varies by sauce | Sold by: piece",
+      "price": 17.29,
+      "modifiers": [
+        {
+          "id": 1,
+          "name": "Signature Sauce",
+          "options": [
+            "Honey Garlic",
+            "Buffalo Bleu",
+            "BBQ Ranch",
+            "Golden Fire (GO Exclusive)",
+            "Parmesan Garlic",
+            "Honey BBQ",
+            "Mild",
+            "Orange Chicken",
+            "Lemon Pepper",
+            "Teriyaki",
+            "Sweet BBQ",
+            "Medium",
+            "Spicy Garlic",
+            "Asian Zing®",
+            "Jammin Jalapeño",
+            "Caribbean Jerk",
+            "Nashville Hot",
+            "Hot",
+            "Mango Habanero™",
+            "Original Buffalo",
+            "Thai Curry",
+            "Blazin'® Knockout",
+            "Wild®",
+            "No Sauce Or Seasoning"
+          ],
+          "defaultOption": "Honey Garlic",
+          "priceAdjustment": {},
+          "maxAmount": 3
+        },
+        {
+          "id": 2,
+          "name": "Dry Seasoning (Optional)",
+          "options": [
+            "Lemon Pepper (Dry Seasoning)",
+            "Salt & Vinegar (Dry Seasoning)",
+            "Buffalo (Dry Seasoning)",
+            "Chipotle BBQ (Dry Seasoning)",
+            "Desert Heat® (Dry Seasoning)",
+            "No Dry Seasoning"
+          ],
+          "defaultOption": "No Dry Seasoning",
+          "priceAdjustment": {},
+          "maxAmount": 2
+        },
+        {
+          "id": 3,
+          "name": "Special Request",
+          "options": [
+            "Sauce on Side",
+            "All Flats",
+            "All Drums",
+            "No Special Request"
+          ],
+          "defaultOption": "No Special Request",
+          "priceAdjustment": {
+            "All Flats": 1.0,
+            "All Drums": 1.0
+          },
+          "maxAmount": 2
+        },
+        {
+          "id": 4,
+          "name": "Dips & Veggies",
+          "options": [
+            "Ranch",
+            "Carrots",
+            "Bleu Cheese",
+            "Celery",
+            "Carrots & Celery",
+            "No Dips & Veggies"
+          ],
+          "defaultOption": "Ranch",
+          "priceAdjustment": {},
+          "maxAmount": 3
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "15 Traditional Wings",
+      "description": "Award-winning & authentic Buffalo, New York-style wings. Free dip and veggies with every wings purchase | Spiciness: Varies by sauce | Sold by: piece",
+      "price": 24.49,
+      "modifiers": [
+        {
+          "id": 1,
+          "name": "Signature Sauce",
+          "options": [
+            "Honey Garlic",
+            "Buffalo Bleu",
+            "BBQ Ranch",
+            "Golden Fire (GO Exclusive)",
+            "Parmesan Garlic",
+            "Honey BBQ",
+            "Mild",
+            "Orange Chicken",
+            "Lemon Pepper",
+            "Teriyaki",
+            "Sweet BBQ",
+            "Medium",
+            "Spicy Garlic",
+            "Asian Zing®",
+            "Jammin Jalapeño",
+            "Caribbean Jerk",
+            "Nashville Hot",
+            "Hot",
+            "Mango Habanero™",
+            "Original Buffalo",
+            "Thai Curry",
+            "Blazin'® Knockout",
+            "Wild®",
+            "No Sauce Or Seasoning"
+          ],
+          "defaultOption": "Honey Garlic",
+          "priceAdjustment": {},
+          "maxAmount": 3
+        },
+        {
+          "id": 2,
+          "name": "Dry Seasoning (Optional)",
+          "options": [
+            "Lemon Pepper (Dry Seasoning)",
+            "Salt & Vinegar (Dry Seasoning)",
+            "Buffalo (Dry Seasoning)",
+            "Chipotle BBQ (Dry Seasoning)",
+            "Desert Heat® (Dry Seasoning)",
+            "No Dry Seasoning"
+          ],
+          "defaultOption": "No Dry Seasoning",
+          "priceAdjustment": {},
+          "maxAmount": 2
+        },
+        {
+          "id": 3,
+          "name": "Special Request",
+          "options": [
+            "Sauce on Side",
+            "All Flats",
+            "All Drums",
+            "No Special Request"
+          ],
+          "defaultOption": "No Special Request",
+          "priceAdjustment": {
+            "All Flats": 1.0,
+            "All Drums": 1.0
+          },
+          "maxAmount": 2
+        },
+        {
+          "id": 4,
+          "name": "Dips & Veggies",
+          "options": [
+            "Ranch",
+            "Carrots",
+            "Bleu Cheese",
+            "Celery",
+            "Carrots & Celery",
+            "No Dips & Veggies"
+          ],
+          "defaultOption": "Ranch",
+          "priceAdjustment": {},
+          "maxAmount": 3
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "20 Traditional Wings",
+      "description": "Award-winning & authentic Buffalo, New York-style wings. Free dip and veggies with every wings purchase | Spiciness: Varies by sauce | Sold by: piece",
+      "price": 29.99,
+      "modifiers": [
+        {
+          "id": 1,
+          "name": "Signature Sauce",
+          "options": [
+            "Honey Garlic",
+            "Buffalo Bleu",
+            "BBQ Ranch",
+            "Golden Fire (GO Exclusive)",
+            "Parmesan Garlic",
+            "Honey BBQ",
+            "Mild",
+            "Orange Chicken",
+            "Lemon Pepper",
+            "Teriyaki",
+            "Sweet BBQ",
+            "Medium",
+            "Spicy Garlic",
+            "Asian Zing®",
+            "Jammin Jalapeño",
+            "Caribbean Jerk",
+            "Nashville Hot",
+            "Hot",
+            "Mango Habanero™",
+            "Original Buffalo",
+            "Thai Curry",
+            "Blazin'® Knockout",
+            "Wild®",
+            "No Sauce Or Seasoning"
+          ],
+          "defaultOption": "Honey Garlic",
+          "priceAdjustment": {},
+          "maxAmount": 4
+        },
+        {
+          "id": 2,
+          "name": "Dry Seasoning (Optional)",
+          "options": [
+            "Lemon Pepper (Dry Seasoning)",
+            "Salt & Vinegar (Dry Seasoning)",
+            "Buffalo (Dry Seasoning)",
+            "Chipotle BBQ (Dry Seasoning)",
+            "Desert Heat® (Dry Seasoning)",
+            "No Dry Seasoning"
+          ],
+          "defaultOption": "No Dry Seasoning",
+          "priceAdjustment": {},
+          "maxAmount": 2
+        },
+        {
+          "id": 3,
+          "name": "Special Request",
+          "options": [
+            "Sauce on Side",
+            "All Flats",
+            "All Drums",
+            "No Special Request"
+          ],
+          "defaultOption": "No Special Request",
+          "priceAdjustment": {
+            "All Flats": 1.0,
+            "All Drums": 1.0
+          },
+          "maxAmount": 2
+        },
+        {
+          "id": 4,
+          "name": "Dips & Veggies",
+          "options": [
+            "Ranch",
+            "Carrots",
+            "Bleu Cheese",
+            "Celery",
+            "Carrots & Celery",
+            "No Dips & Veggies"
+          ],
+          "defaultOption": "Ranch",
+          "priceAdjustment": {},
+          "maxAmount": 4
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "30 Traditional Wings",
+      "description": "Award-winning & authentic Buffalo, New York-style wings. Free dip and veggies with every wings purchase | Spiciness: Varies by sauce | Sold by: piece",
+      "price": 42.99,
+      "modifiers": [
+        {
+          "id": 1,
+          "name": "Signature Sauce",
+          "options": [
+            "Honey Garlic",
+            "Buffalo Bleu",
+            "BBQ Ranch",
+            "Golden Fire (GO Exclusive)",
+            "Parmesan Garlic",
+            "Honey BBQ",
+            "Mild",
+            "Orange Chicken",
+            "Lemon Pepper",
+            "Teriyaki",
+            "Sweet BBQ",
+            "Medium",
+            "Spicy Garlic",
+            "Asian Zing®",
+            "Jammin Jalapeño",
+            "Caribbean Jerk",
+            "Nashville Hot",
+            "Hot",
+            "Mango Habanero™",
+            "Original Buffalo",
+            "Thai Curry",
+            "Blazin'® Knockout",
+            "Wild®",
+            "No Sauce Or Seasoning"
+          ],
+          "defaultOption": "Honey Garlic",
+          "priceAdjustment": {},
+          "maxAmount": 5
+        },
+        {
+          "id": 2,
+          "name": "Dry Seasoning (Optional)",
+          "options": [
+            "Lemon Pepper (Dry Seasoning)",
+            "Salt & Vinegar (Dry Seasoning)",
+            "Buffalo (Dry Seasoning)",
+            "Chipotle BBQ (Dry Seasoning)",
+            "Desert Heat® (Dry Seasoning)",
+            "No Dry Seasoning"
+          ],
+          "defaultOption": "No Dry Seasoning",
+          "priceAdjustment": {},
+          "maxAmount": 3
+        },
+        {
+          "id": 3,
+          "name": "Special Request",
+          "options": [
+            "Sauce on Side",
+            "All Flats",
+            "All Drums",
+            "No Special Request"
+          ],
+          "defaultOption": "No Special Request",
+          "priceAdjustment": {
+            "All Flats": 1.0,
+            "All Drums": 1.0
+          },
+          "maxAmount": 2
+        },
+        {
+          "id": 4,
+          "name": "Dips & Veggies",
+          "options": [
+            "Ranch",
+            "Carrots",
+            "Bleu Cheese",
+            "Celery",
+            "Carrots & Celery",
+            "No Dips & Veggies"
+          ],
+          "defaultOption": "Ranch",
+          "priceAdjustment": {},
+          "maxAmount": 5
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "name": "6 Boneless Wings",
+      "description": "Juicy all-white chicken, lightly breaded and perfectly crispy. Free dip and veggies with every wings purchase | Spiciness: Varies by sauce | Sold by: piece",
+      "price": 11.29,
+      "modifiers": [
+        {
+          "id": 1,
+          "name": "Signature Sauce",
+          "options": [
+            "Honey Garlic",
+            "Buffalo Bleu",
+            "BBQ Ranch",
+            "Golden Fire (GO Exclusive)",
+            "Parmesan Garlic",
+            "Honey BBQ",
+            "Mild",
+            "Orange Chicken",
+            "Lemon Pepper",
+            "Teriyaki",
+            "Sweet BBQ",
+            "Medium",
+            "Spicy Garlic",
+            "Asian Zing®",
+            "Jammin Jalapeño",
+            "Caribbean Jerk",
+            "Nashville Hot",
+            "Hot",
+            "Mango Habanero™",
+            "Original Buffalo",
+            "Thai Curry",
+            "Blazin'® Knockout",
+            "Wild®",
+            "No Sauce Or Seasoning"
+          ],
+          "defaultOption": "Honey Garlic",
+          "priceAdjustment": {},
+          "maxAmount": 3
+        },
+        {
+          "id": 2,
+          "name": "Dry Seasoning (Optional)",
+          "options": [
+            "Lemon Pepper (Dry Seasoning)",
+            "Salt & Vinegar (Dry Seasoning)",
+            "Buffalo (Dry Seasoning)",
+            "Chipotle BBQ (Dry Seasoning)",
+            "Desert Heat® (Dry Seasoning)",
+            "No Dry Seasoning"
+          ],
+          "defaultOption": "No Dry Seasoning",
+          "priceAdjustment": {},
+          "maxAmount": 2
+        },
+        {
+          "id": 3,
+          "name": "Special Request On Boneless Wings",
+          "options": [
+            "Sauce on Side",
+            "No Special Request"
+          ],
+          "defaultOption": "No Special Request",
+          "priceAdjustment": {},
+          "maxAmount": 1
+        },
+        {
+          "id": 4,
+          "name": "Dips & Veggies",
+          "options": [
+            "Ranch",
+            "Carrots",
+            "Bleu Cheese",
+            "Celery",
+            "Carrots & Celery",
+            "No Dips & Veggies"
+          ],
+          "defaultOption": "Ranch",
+          "priceAdjustment": {},
+          "maxAmount": 3
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "name": "10 Boneless Wings",
+      "description": "Juicy all-white chicken, lightly breaded and perfectly crispy. Free dip and veggies with every wings purchase | Spiciness: Varies by sauce | Sold by: piece",
+      "price": 15.29,
+      "modifiers": [
+        {
+          "id": 1,
+          "name": "Signature Sauce",
+          "options": [
+            "Honey Garlic",
+            "Buffalo Bleu",
+            "BBQ Ranch",
+            "Golden Fire (GO Exclusive)",
+            "Parmesan Garlic",
+            "Honey BBQ",
+            "Mild",
+            "Orange Chicken",
+            "Lemon Pepper",
+            "Teriyaki",
+            "Sweet BBQ",
+            "Medium",
+            "Spicy Garlic",
+            "Asian Zing®",
+            "Jammin Jalapeño",
+            "Caribbean Jerk",
+            "Nashville Hot",
+            "Hot",
+            "Mango Habanero™",
+            "Original Buffalo",
+            "Thai Curry",
+            "Blazin'® Knockout",
+            "Wild®",
+            "No Sauce Or Seasoning"
+          ],
+          "defaultOption": "Honey Garlic",
+          "priceAdjustment": {},
+          "maxAmount": 3
+        },
+        {
+          "id": 2,
+          "name": "Dry Seasoning (Optional)",
+          "options": [
+            "Lemon Pepper (Dry Seasoning)",
+            "Salt & Vinegar (Dry Seasoning)",
+            "Buffalo (Dry Seasoning)",
+            "Chipotle BBQ (Dry Seasoning)",
+            "Desert Heat® (Dry Seasoning)",
+            "No Dry Seasoning"
+          ],
+          "defaultOption": "No Dry Seasoning",
+          "priceAdjustment": {},
+          "maxAmount": 2
+        },
+        {
+          "id": 3,
+          "name": "Special Request On Boneless Wings",
+          "options": [
+            "Sauce on Side",
+            "No Special Request"
+          ],
+          "defaultOption": "No Special Request",
+          "priceAdjustment": {},
+          "maxAmount": 1
+        },
+        {
+          "id": 4,
+          "name": "Dips & Veggies",
+          "options": [
+            "Ranch",
+            "Carrots",
+            "Bleu Cheese",
+            "Celery",
+            "Carrots & Celery",
+            "No Dips & Veggies"
+          ],
+          "defaultOption": "Ranch",
+          "priceAdjustment": {},
+          "maxAmount": 3
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "name": "15 Boneless Wings",
+      "description": "Juicy all-white chicken, lightly breaded and perfectly crispy. Free dip and veggies with every wings purchase | Spiciness: Varies by sauce | Sold by: piece",
+      "price": 21.79,
+      "modifiers": [
+        {
+          "id": 1,
+          "name": "Signature Sauce",
+          "options": [
+            "Honey Garlic",
+            "Buffalo Bleu",
+            "BBQ Ranch",
+            "Golden Fire (GO Exclusive)",
+            "Parmesan Garlic",
+            "Honey BBQ",
+            "Mild",
+            "Orange Chicken",
+            "Lemon Pepper",
+            "Teriyaki",
+            "Sweet BBQ",
+            "Medium",
+            "Spicy Garlic",
+            "Asian Zing®",
+            "Jammin Jalapeño",
+            "Caribbean Jerk",
+            "Nashville Hot",
+            "Hot",
+            "Mango Habanero™",
+            "Original Buffalo",
+            "Thai Curry",
+            "Blazin'® Knockout",
+            "Wild®",
+            "No Sauce Or Seasoning"
+          ],
+          "defaultOption": "Honey Garlic",
+          "priceAdjustment": {},
+          "maxAmount": 3
+        },
+        {
+          "id": 2,
+          "name": "Dry Seasoning (Optional)",
+          "options": [
+            "Lemon Pepper (Dry Seasoning)",
+            "Salt & Vinegar (Dry Seasoning)",
+            "Buffalo (Dry Seasoning)",
+            "Chipotle BBQ (Dry Seasoning)",
+            "Desert Heat® (Dry Seasoning)",
+            "No Dry Seasoning"
+          ],
+          "defaultOption": "No Dry Seasoning",
+          "priceAdjustment": {},
+          "maxAmount": 2
+        },
+        {
+          "id": 3,
+          "name": "Special Request On Boneless Wings",
+          "options": [
+            "Sauce on Side",
+            "No Special Request"
+          ],
+          "defaultOption": "No Special Request",
+          "priceAdjustment": {},
+          "maxAmount": 1
+        },
+        {
+          "id": 4,
+          "name": "Dips & Veggies",
+          "options": [
+            "Ranch",
+            "Carrots",
+            "Bleu Cheese",
+            "Celery",
+            "Carrots & Celery",
+            "No Dips & Veggies"
+          ],
+          "defaultOption": "Ranch",
+          "priceAdjustment": {},
+          "maxAmount": 3
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "name": "20 Boneless Wings",
+      "description": "Juicy all-white chicken, lightly breaded and perfectly crispy. Free dip and veggies with every wings purchase | Spiciness: Varies by sauce | Sold by: piece",
+      "price": 28.29,
+      "modifiers": [
+        {
+          "id": 1,
+          "name": "Signature Sauce",
+          "options": [
+            "Honey Garlic",
+            "Buffalo Bleu",
+            "BBQ Ranch",
+            "Golden Fire (GO Exclusive)",
+            "Parmesan Garlic",
+            "Honey BBQ",
+            "Mild",
+            "Orange Chicken",
+            "Lemon Pepper",
+            "Teriyaki",
+            "Sweet BBQ",
+            "Medium",
+            "Spicy Garlic",
+            "Asian Zing®",
+            "Jammin Jalapeño",
+            "Caribbean Jerk",
+            "Nashville Hot",
+            "Hot",
+            "Mango Habanero™",
+            "Original Buffalo",
+            "Thai Curry",
+            "Blazin'® Knockout",
+            "Wild®",
+            "No Sauce Or Seasoning"
+          ],
+          "defaultOption": "Honey Garlic",
+          "priceAdjustment": {},
+          "maxAmount": 4
+        },
+        {
+          "id": 2,
+          "name": "Dry Seasoning (Optional)",
+          "options": [
+            "Lemon Pepper (Dry Seasoning)",
+            "Salt & Vinegar (Dry Seasoning)",
+            "Buffalo (Dry Seasoning)",
+            "Chipotle BBQ (Dry Seasoning)",
+            "Desert Heat® (Dry Seasoning)",
+            "No Dry Seasoning"
+          ],
+          "defaultOption": "No Dry Seasoning",
+          "priceAdjustment": {},
+          "maxAmount": 2
+        },
+        {
+          "id": 3,
+          "name": "Special Request On Boneless Wings",
+          "options": [
+            "Sauce on Side",
+            "No Special Request"
+          ],
+          "defaultOption": "No Special Request",
+          "priceAdjustment": {},
+          "maxAmount": 1
+        },
+        {
+          "id": 4,
+          "name": "Dips & Veggies",
+          "options": [
+            "Ranch",
+            "Carrots",
+            "Bleu Cheese",
+            "Celery",
+            "Carrots & Celery",
+            "No Dips & Veggies"
+          ],
+          "defaultOption": "Ranch",
+          "priceAdjustment": {},
+          "maxAmount": 4
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "name": "30 Boneless Wings",
+      "description": "Juicy all-white chicken, lightly breaded and perfectly crispy. Free dip and veggies with every wings purchase | Spiciness: Varies by sauce | Sold by: piece",
+      "price": 41.79,
+      "modifiers": [
+        {
+          "id": 1,
+          "name": "Signature Sauce",
+          "options": [
+            "Honey Garlic",
+            "Buffalo Bleu",
+            "BBQ Ranch",
+            "Golden Fire (GO Exclusive)",
+            "Parmesan Garlic",
+            "Honey BBQ",
+            "Mild",
+            "Orange Chicken",
+            "Lemon Pepper",
+            "Teriyaki",
+            "Sweet BBQ",
+            "Medium",
+            "Spicy Garlic",
+            "Asian Zing®",
+            "Jammin Jalapeño",
+            "Caribbean Jerk",
+            "Nashville Hot",
+            "Hot",
+            "Mango Habanero™",
+            "Original Buffalo",
+            "Thai Curry",
+            "Blazin'® Knockout",
+            "Wild®",
+            "No Sauce Or Seasoning"
+          ],
+          "defaultOption": "Honey Garlic",
+          "priceAdjustment": {},
+          "maxAmount": 5
+        },
+        {
+          "id": 2,
+          "name": "Dry Seasoning (Optional)",
+          "options": [
+            "Lemon Pepper (Dry Seasoning)",
+            "Salt & Vinegar (Dry Seasoning)",
+            "Buffalo (Dry Seasoning)",
+            "Chipotle BBQ (Dry Seasoning)",
+            "Desert Heat® (Dry Seasoning)",
+            "No Dry Seasoning"
+          ],
+          "defaultOption": "No Dry Seasoning",
+          "priceAdjustment": {},
+          "maxAmount": 3
+        },
+        {
+          "id": 3,
+          "name": "Special Request On Boneless Wings",
+          "options": [
+            "Sauce on Side",
+            "No Special Request"
+          ],
+          "defaultOption": "No Special Request",
+          "priceAdjustment": {},
+          "maxAmount": 1
+        },
+        {
+          "id": 4,
+          "name": "Dips & Veggies",
+          "options": [
+            "Ranch",
+            "Carrots",
+            "Bleu Cheese",
+            "Celery",
+            "Carrots & Celery",
+            "No Dips & Veggies"
+          ],
+          "defaultOption": "Ranch",
+          "priceAdjustment": {},
+          "maxAmount": 5
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "name": "Small Cauliflower Wings",
+      "description": "Breaded cauliflower handspun in your favorite sauce or dry seasoning with green onions. Free dip and veggies with every wings purchase | Spiciness: Varies by sauce | Sold by: piece",
+      "price": 13.79,
+      "modifiers": [
+        {
+          "id": 1,
+          "name": "Signature Sauce",
+          "options": [
+            "Asian Zing®",
+            "Honey Garlic",
+            "Buffalo Bleu",
+            "BBQ Ranch",
+            "Parmesan Garlic",
+            "Honey BBQ",
+            "Mild",
+            "Medium",
+            "Hot",
+            "No Sauce Or Seasoning"
+          ],
+          "defaultOption": "Asian Zing®",
+          "priceAdjustment": {},
+          "maxAmount": 1
+        },
+        {
+          "id": 2,
+          "name": "Toppings (Click to Remove)",
+          "options": [
+            "Pickled Hot Peppers",
+            "Everything Seasoning",
+            "Green Onions"
+          ],
+          "defaultOption": "Pickled Hot Peppers",
+          "priceAdjustment": {},
+          "maxAmount": 3
+        },
+        {
+          "id": 3,
+          "name": "Dips & Veggies",
+          "options": [
+            "Ranch",
+            "Bleu Cheese",
+            "No Dips & Veggies"
+          ],
+          "defaultOption": "Ranch",
+          "priceAdjustment": {},
+          "maxAmount": 2
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "name": "Large Cauliflower Wings",
+      "description": "Breaded cauliflower handspun in your favorite sauce or dry seasoning with green onions. Free dip and veggies with every wings purchase | Spiciness: Varies by sauce | Sold by: piece",
+      "price": 22.99,
+      "modifiers": [
+        {
+          "id": 1,
+          "name": "Signature Sauce",
+          "options": [
+            "Asian Zing®",
+            "Honey Garlic",
+            "Buffalo Bleu",
+            "BBQ Ranch",
+            "Parmesan Garlic",
+            "Honey BBQ",
+            "Mild",
+            "Medium",
+            "Hot",
+            "No Sauce Or Seasoning"
+          ],
+          "defaultOption": "Asian Zing®",
+          "priceAdjustment": {},
+          "maxAmount": 1
+        },
+        {
+          "id": 2,
+          "name": "Toppings (Click to Remove)",
+          "options": [
+            "Pickled Hot Peppers",
+            "Everything Seasoning",
+            "Green Onions"
+          ],
+          "defaultOption": "Pickled Hot Peppers",
+          "priceAdjustment": {},
+          "maxAmount": 3
+        },
+        {
+          "id": 3,
+          "name": "Dips & Veggies",
+          "options": [
+            "Ranch",
+            "Bleu Cheese",
+            "No Dips & Veggies"
+          ],
+          "defaultOption": "Ranch",
+          "priceAdjustment": {},
+          "maxAmount": 2
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "name": "3 Crispy Chicken Tenders",
+      "description": "Hand-breaded chicken tenders with choice of sauce or dry seasoning, served with natural-cut French fries | Spiciness: Varies by sauce",
+      "price": 13.79,
+      "modifiers": [
+        {
+          "id": 1,
+          "name": "Signature Sauce",
+          "options": [
+            "Honey Garlic",
+            "Buffalo Bleu",
+            "BBQ Ranch",
+            "Golden Fire (GO Exclusive)",
+            "Honey BBQ",
+            "Parmesan Garlic",
+            "Mild",
+            "Orange Chicken",
+            "Lemon Pepper",
+            "Teriyaki",
+            "Sweet BBQ",
+            "Medium",
+            "Spicy Garlic",
+            "Asian Zing®",
+            "Jammin Jalapeño",
+            "Caribbean Jerk",
+            "Nashville Hot",
+            "Hot",
+            "Mango Habanero™",
+            "Original Buffalo",
+            "Thai Curry",
+            "Blazin'® Knockout",
+            "Wild®",
+            "No Sauce Or Seasoning"
+          ],
+          "defaultOption": "Honey BBQ",
+          "priceAdjustment": {},
+          "maxAmount": 1
+        },
+        {
+          "id": 2,
+          "name": "Sides",
+          "options": [
+            "Regular French Fries",
+            "Regular Tater Tots",
+            "Side Salad",
+            "Regular Beer-Battered Onion Rings",
+            "Regular Potato Wedges",
+            "Regular Cheddar Cheese Curds",
+            "Chips and Salsa",
+            "Carrots & Celery"
+          ],
+          "defaultOption": "Regular French Fries",
+          "priceAdjustment": {
+            "Regular Tater Tots": 1.0,
+            "Side Salad": 1.0,
+            "Regular Beer-Battered Onion Rings": 2.0,
+            "Regular Potato Wedges": 1.0,
+            "Regular Cheddar Cheese Curds": 3.0
+          },
+          "maxAmount": 1
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "name": "5 Crispy Chicken Tenders",
+      "description": "Hand-breaded chicken tenders with choice of sauce or dry seasoning, served with natural-cut French fries | Spiciness: Varies by sauce",
+      "price": 15.29,
+      "modifiers": [
+        {
+          "id": 1,
+          "name": "Signature Sauce",
+          "options": [
+            "Honey Garlic",
+            "Buffalo Bleu",
+            "BBQ Ranch",
+            "Golden Fire (GO Exclusive)",
+            "Honey BBQ",
+            "Parmesan Garlic",
+            "Mild",
+            "Orange Chicken",
+            "Lemon Pepper",
+            "Teriyaki",
+            "Sweet BBQ",
+            "Medium",
+            "Spicy Garlic",
+            "Asian Zing®",
+            "Jammin Jalapeño",
+            "Caribbean Jerk",
+            "Nashville Hot",
+            "Hot",
+            "Mango Habanero™",
+            "Original Buffalo",
+            "Thai Curry",
+            "Blazin'® Knockout",
+            "Wild®",
+            "No Sauce Or Seasoning"
+          ],
+          "defaultOption": "Honey BBQ",
+          "priceAdjustment": {},
+          "maxAmount": 1
+        },
+        {
+          "id": 2,
+          "name": "Sides",
+          "options": [
+            "Regular French Fries",
+            "Regular Tater Tots",
+            "Side Salad",
+            "Regular Beer-Battered Onion Rings",
+            "Regular Potato Wedges",
+            "Regular Cheddar Cheese Curds",
+            "Chips and Salsa",
+            "Carrots & Celery"
+          ],
+          "defaultOption": "Regular French Fries",
+          "priceAdjustment": {
+            "Regular Tater Tots": 1.0,
+            "Side Salad": 1.0,
+            "Regular Beer-Battered Onion Rings": 2.0,
+            "Regular Potato Wedges": 1.0,
+            "Regular Cheddar Cheese Curds": 3.0
+          },
+          "maxAmount": 1
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "name": "3 Grilled Tenders",
+      "description": "Chicken tenders, grilled, with choice of sauce or seasoning, served with natural-cut French fries | Spiciness: Varies by sauce",
+      "price": 13.79,
+      "modifiers": [
+        {
+          "id": 1,
+          "name": "Signature Sauce",
+          "options": [
+            "Honey Garlic",
+            "Buffalo Bleu",
+            "BBQ Ranch",
+            "Golden Fire (GO Exclusive)",
+            "Honey BBQ",
+            "Parmesan Garlic",
+            "Mild",
+            "Orange Chicken",
+            "Lemon Pepper",
+            "Teriyaki",
+            "Sweet BBQ",
+            "Medium",
+            "Spicy Garlic",
+            "Asian Zing®",
+            "Jammin Jalapeño",
+            "Caribbean Jerk",
+            "Nashville Hot",
+            "Hot",
+            "Mango Habanero™",
+            "Original Buffalo",
+            "Thai Curry",
+            "Blazin'® Knockout",
+            "Wild®",
+            "No Sauce Or Seasoning"
+          ],
+          "defaultOption": "Honey BBQ",
+          "priceAdjustment": {},
+          "maxAmount": 1
+        },
+        {
+          "id": 2,
+          "name": "Sides",
+          "options": [
+            "Regular French Fries",
+            "Regular Tater Tots",
+            "Side Salad",
+            "Regular Beer-Battered Onion Rings",
+            "Regular Potato Wedges",
+            "Regular Cheddar Cheese Curds",
+            "Chips and Salsa",
+            "No Side",
+            "Carrots & Celery"
+          ],
+          "defaultOption": "Regular French Fries",
+          "priceAdjustment": {
+            "Regular Tater Tots": 1.0,
+            "Side Salad": 1.0,
+            "Regular Beer-Battered Onion Rings": 2.0,
+            "Regular Potato Wedges": 1.0,
+            "Regular Cheddar Cheese Curds": 3.0
+          },
+          "maxAmount": 1
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "name": "5 Grilled Tenders",
+      "description": "Chicken tenders, grilled, with choice of sauce or seasoning, served with natural-cut French fries | Spiciness: Varies by sauce",
+      "price": 15.29,
+      "modifiers": [
+        {
+          "id": 1,
+          "name": "Signature Sauce",
+          "options": [
+            "Honey Garlic",
+            "Buffalo Bleu",
+            "BBQ Ranch",
+            "Golden Fire (GO Exclusive)",
+            "Honey BBQ",
+            "Parmesan Garlic",
+            "Mild",
+            "Orange Chicken",
+            "Lemon Pepper",
+            "Teriyaki",
+            "Sweet BBQ",
+            "Medium",
+            "Spicy Garlic",
+            "Asian Zing®",
+            "Jammin Jalapeño",
+            "Caribbean Jerk",
+            "Nashville Hot",
+            "Hot",
+            "Mango Habanero™",
+            "Original Buffalo",
+            "Thai Curry",
+            "Blazin'® Knockout",
+            "Wild®",
+            "No Sauce Or Seasoning"
+          ],
+          "defaultOption": "Honey BBQ",
+          "priceAdjustment": {},
+          "maxAmount": 1
+        },
+        {
+          "id": 2,
+          "name": "Sides",
+          "options": [
+            "Regular French Fries",
+            "Regular Tater Tots",
+            "Side Salad",
+            "Regular Beer-Battered Onion Rings",
+            "Regular Potato Wedges",
+            "Regular Cheddar Cheese Curds",
+            "Chips and Salsa",
+            "No Side",
+            "Carrots & Celery"
+          ],
+          "defaultOption": "Regular French Fries",
+          "priceAdjustment": {
+            "Regular Tater Tots": 1.0,
+            "Side Salad": 1.0,
+            "Regular Beer-Battered Onion Rings": 2.0,
+            "Regular Potato Wedges": 1.0,
+            "Regular Cheddar Cheese Curds": 3.0
+          },
+          "maxAmount": 1
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "name": "All-American Cheeseburger",
+      "description": "Two hand-smashed patties, American cheese, shredded lettuce, tomato, pickles, mustard, mayo, challah bun. Natural-cut French fries | Spiciness: Unknown",
+      "price": 15.29,
+      "modifiers": [
+        {
+          "id": 1,
+          "name": "Cheese",
+          "options": [
+            "American",
+            "Cheddar",
+            "Swiss",
+            "Pepper Jack",
+            "No Cheese"
+          ],
+          "defaultOption": "American",
+          "priceAdjustment": {},
+          "maxAmount": 1
+        },
+        {
+          "id": 2,
+          "name": "Options (Click to Remove)",
+          "options": [
+            "Grilled White Onions",
+            "Lettuce",
+            "Tomato",
+            "Pickles",
+            "Mayo",
+            "Mustard",
+            "Bun"
+          ],
+          "defaultOption": "Lettuce",
+          "priceAdjustment": {},
+          "maxAmount": 7
+        },
+        {
+          "id": 3,
+          "name": "Add-Ons (Additional Charges Apply)",
+          "options": [
+            "House-made Guacamole",
+            "Bacon",
+            "No Add-Ons"
+          ],
+          "defaultOption": "No Add-Ons",
+          "priceAdjustment": {
+            "House-made Guacamole": 2.0,
+            "Bacon": 2.5
+          },
+          "maxAmount": 2
+        },
+        {
+          "id": 4,
+          "name": "Sides",
+          "options": [
+            "Regular French Fries",
+            "Regular Tater Tots",
+            "Side Salad",
+            "Regular Beer-Battered Onion Rings",
+            "Regular Potato Wedges",
+            "Regular Cheddar Cheese Curds",
+            "Chips and Salsa",
+            "Carrots & Celery",
+            "No Side"
+          ],
+          "defaultOption": "Regular French Fries",
+          "priceAdjustment": {
+            "Regular Tater Tots": 1.0,
+            "Side Salad": 1.0,
+            "Regular Beer-Battered Onion Rings": 2.0,
+            "Regular Potato Wedges": 1.0,
+            "Regular Cheddar Cheese Curds": 3.0
+          },
+          "maxAmount": 1
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "name": "Regular French Fries",
+      "description": "Natural-cut fries, sea salt, coarse pepper | Spiciness: Mild | Sold by: serving",
+      "price": 5.29,
+      "modifiers": [
+        {
+          "id": 1,
+          "name": "Customize Your Shareable (Additional Charges May Apply)",
+          "options": [
+            "Lemon Pepper (Dry Seasoning)",
+            "Salt & Vinegar (Dry Seasoning)",
+            "Buffalo (Dry Seasoning)",
+            "Chipotle BBQ (Dry Seasoning)",
+            "Desert Heat® (Dry Seasoning)",
+            "Cheddar Jack Cheese (Recommended)",
+            "Bacon Crumbles",
+            "Chili",
+            "No Salt and Pepper",
+            "Queso Cheese",
+            "No Customization"
+          ],
+          "defaultOption": "No Customization",
+          "priceAdjustment": {
+            "Cheddar Jack Cheese (Recommended)": 0.65,
+            "Bacon Crumbles": 1.35,
+            "Chili": 0.6,
+            "Queso Cheese": 0.65
+          },
+          "maxAmount": 4
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "name": "Large French Fries",
+      "description": "Natural-cut fries, sea salt, coarse pepper | Spiciness: Mild | Sold by: serving",
+      "price": 8.29,
+      "modifiers": [
+        {
+          "id": 1,
+          "name": "Customize Your Shareable (Additional Charges May Apply)",
+          "options": [
+            "Lemon Pepper (Dry Seasoning)",
+            "Salt & Vinegar (Dry Seasoning)",
+            "Buffalo (Dry Seasoning)",
+            "Chipotle BBQ (Dry Seasoning)",
+            "Desert Heat® (Dry Seasoning)",
+            "Cheddar Jack Cheese (Recommended)",
+            "Bacon Crumbles",
+            "Chili",
+            "No Salt and Pepper",
+            "Queso Cheese",
+            "No Customization"
+          ],
+          "defaultOption": "No Customization",
+          "priceAdjustment": {
+            "Cheddar Jack Cheese (Recommended)": 1.15,
+            "Bacon Crumbles": 2.0,
+            "Chili": 1.4,
+            "Queso Cheese": 1.15
+          },
+          "maxAmount": 4
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "name": "20oz Fountain Soda",
+      "description": "Spiciness: Unknown | Sold by: cup",
+      "price": 4.49,
+      "modifiers": [
+        {
+          "id": 1,
+          "name": "Soda Selection",
+          "options": [
+            "Pepsi®",
+            "Diet Pepsi®",
+            "Mountain Dew Legend™",
+            "Mountain Dew®",
+            "Starry®",
+            "Tropicana® Lemonade",
+            "Dr. Pepper®",
+            "Pepsi® Zero Sugar"
+          ],
+          "defaultOption": "Pepsi®",
+          "priceAdjustment": {},
+          "maxAmount": 1
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "name": "Regular Ranch",
+      "description": "Spiciness: Unknown",
+      "price": 0.6,
+      "modifiers": []
+    },
+    {
+      "id": 22,
+      "name": "Large Ranch",
+      "description": "Spiciness: Unknown",
+      "price": 1.99,
+      "modifiers": []
+    },
+    {
+      "id": 23,
+      "name": "Regular Southwestern Ranch",
+      "description": "Spiciness: Unknown",
+      "price": 0.6,
+      "modifiers": []
+    },
+    {
+      "id": 24,
+      "name": "Large Southwestern Ranch",
+      "description": "Spiciness: Unknown",
+      "price": 1.99,
+      "modifiers": []
+    },
+    {
+      "id": 25,
+      "name": "Regular Bleu Cheese",
+      "description": "Spiciness: Unknown",
+      "price": 0.6,
+      "modifiers": []
+    },
+    {
+      "id": 26,
+      "name": "Large Bleu Cheese",
+      "description": "Spiciness: Unknown",
+      "price": 1.99,
+      "modifiers": []
+    },
+    {
+      "id": 27,
+      "name": "Carrots & Celery",
+      "description": "Spiciness: Unknown",
+      "price": 1.49,
+      "modifiers": [
+        {
+          "id": 1,
+          "name": "Dipping Sauce",
+          "options": [
+            "Ranch",
+            "No Dressing"
+          ],
+          "defaultOption": "No Dressing",
+          "priceAdjustment": {},
+          "maxAmount": 1
+        }
+      ]
+    },
+    {
+      "id": 28,
+      "name": "Carrots",
+      "description": "Spiciness: Unknown",
+      "price": 0.6,
+      "modifiers": []
+    },
+    {
+      "id": 29,
+      "name": "Celery",
+      "description": "Spiciness: Unknown",
+      "price": 0.6,
+      "modifiers": []
+    },
+    {
+      "id": 30,
+      "name": "Chili",
+      "description": "Spiciness: Mild",
+      "price": 0.6,
+      "modifiers": []
+    },
+    {
+      "id": 31,
+      "name": "Pico de Gallo",
+      "description": "Spiciness: Unknown",
+      "price": 0.6,
+      "modifiers": []
+    },
+    {
+      "id": 32,
+      "name": "Queso Sauce",
+      "description": "Spiciness: Unknown",
+      "price": 0.85,
+      "modifiers": []
+    },
+    {
+      "id": 33,
+      "name": "Salsa",
+      "description": "Spiciness: Unknown",
+      "price": 0.6,
+      "modifiers": []
+    },
+    {
+      "id": 34,
+      "name": "House-made Guacamole",
+      "description": "Spiciness: Unknown",
+      "price": 1.19,
+      "modifiers": []
+    },
+    {
+      "id": 35,
+      "name": "Diet Pepsi® Bottle",
+      "description": "Spiciness: Unknown | Sold by: cup",
+      "price": 3.49,
+      "modifiers": []
+    },
+    {
+      "id": 36,
+      "name": "Pepsi® Bottle",
+      "description": "Spiciness: Unknown | Sold by: cup",
+      "price": 3.49,
+      "modifiers": []
+    },
+    {
+      "id": 37,
+      "name": "Mountain Dew® Bottle",
+      "description": "Spiciness: Unknown | Sold by: cup",
+      "price": 3.49,
+      "modifiers": []
+    },
+    {
+      "id": 38,
+      "name": "Dr. Pepper Bottle",
+      "description": "Spiciness: Unknown | Sold by: cup",
+      "price": 3.49,
+      "modifiers": []
+    },
+    {
+      "id": 39,
+      "name": "Mug® Root Beer Bottle",
+      "description": "Spiciness: Unknown | Sold by: cup",
+      "price": 3.49,
+      "modifiers": []
+    },
+    {
+      "id": 40,
+      "name": "Aquafina® Bottled Water",
+      "description": "Spiciness: Unknown | Sold by: cup",
+      "price": 2.29,
+      "modifiers": []
+    },
+    {
+      "id": 41,
+      "name": "Red Bull Sugar Free",
+      "description": "Spiciness: Unknown",
+      "price": 5.79,
+      "modifiers": []
+    },
+    {
+      "id": 42,
+      "name": "Red Bull",
+      "description": "Spiciness: Unknown",
+      "price": 5.79,
+      "modifiers": []
+    },
+    {
+      "id": 43,
+      "name": "Red Bull Yellow Edition (Tropical)",
+      "description": "Spiciness: Unknown",
+      "price": 5.79,
+      "modifiers": []
+    },
+    {
+      "id": 44,
+      "name": "Red Bull Red Edition (Watermelon)",
+      "description": "Spiciness: Unknown",
+      "price": 5.79,
+      "modifiers": []
+    },
+    {
+      "id": 45,
+      "name": "Red Bull Blue Edition (Blueberry)",
+      "description": "Spiciness: Unknown",
+      "price": 5.79,
+      "modifiers": []
+    },
+    {
+      "id": 46,
+      "name": "bubly™ Lime Sparkling Water",
+      "description": "Spiciness: Unknown | Sold by: cup",
+      "price": 3.49,
+      "modifiers": []
+    },
+    {
+      "id": 47,
+      "name": "Honey Garlic",
+      "description": "A rich garlic balanced with honey and soy | Spiciness: Mild",
+      "price": 0.6,
+      "modifiers": []
+    },
+    {
+      "id": 48,
+      "name": "Buffalo Bleu",
+      "description": "Buffalo sauce blended with bleu cheese, cayenne pepper and garlic | Spiciness: Hot",
+      "price": 0.6,
+      "modifiers": []
+    },
+    {
+      "id": 49,
+      "name": "BBQ Ranch",
+      "description": "A creamy combination of ranch dressing and BBQ sauce | Spiciness: Unknown",
+      "price": 0.6,
+      "modifiers": []
+    },
+    {
+      "id": 50,
+      "name": "Golden Fire (GO Exclusive)",
+      "description": "Sweet and tangy Carolina Gold meets fiery chilies to create the perfect blend of sting and zing | Spiciness: Hot",
+      "price": 0.6,
+      "modifiers": []
+    },
+    {
+      "id": 51,
+      "name": "Honey BBQ",
+      "description": "Sweet with gentle heat | Spiciness: Hot",
+      "price": 0.6,
+      "modifiers": []
+    },
+    {
+      "id": 52,
+      "name": "Parmesan Garlic",
+      "description": "Parmesan garlic with Italian herbs | Spiciness: Unknown",
+      "price": 0.6,
+      "modifiers": []
+    },
+    {
+      "id": 53,
+      "name": "Mild",
+      "description": "Buffalo with low heat | Spiciness: Mild",
+      "price": 0.6,
+      "modifiers": []
+    },
+    {
+      "id": 54,
+      "name": "Orange Chicken",
+      "description": "Orange, soy, and mild chili pepper | Spiciness: Mild",
+      "price": 0.6,
+      "modifiers": []
+    },
+    {
+      "id": 55,
+      "name": "Lemon Pepper",
+      "description": "Buttery lemon and pepper | Spiciness: Mild",
+      "price": 0.6,
+      "modifiers": []
+    },
+    {
+      "id": 56,
+      "name": "Lemon Pepper (Dry Seasoning)",
+      "description": "Citrus zest with black pepper | Spiciness: Mild",
+      "price": 0.6,
+      "modifiers": []
+    },
+    {
+      "id": 57,
+      "name": "Teriyaki",
+      "description": "Bold and savory | Spiciness: Unknown",
+      "price": 0.6,
+      "modifiers": []
+    },
+    {
+      "id": 58,
+      "name": "Sweet BBQ",
+      "description": "Rich and sweet | Spiciness: Unknown",
+      "price": 0.6,
+      "modifiers": []
+    },
+    {
+      "id": 59,
+      "name": "Salt & Vinegar (Dry Seasoning)",
+      "description": "It's all in the name | Spiciness: Unknown",
+      "price": 0.6,
+      "modifiers": []
+    },
+    {
+      "id": 60,
+      "name": "Medium",
+      "description": "Classic wing sauce, comfortably hot | Spiciness: Unknown",
+      "price": 0.6,
+      "modifiers": []
+    },
+    {
+      "id": 61,
+      "name": "Spicy Garlic",
+      "description": "Buffalo with a kick of garlic | Spiciness: Hot",
+      "price": 0.6,
+      "modifiers": []
+    },
+    {
+      "id": 62,
+      "name": "Asian Zing®",
+      "description": "Chili pepper, soy and ginger | Spiciness: Mild",
+      "price": 0.6,
+      "modifiers": []
+    },
+    {
+      "id": 63,
+      "name": "Jammin Jalapeño",
+      "description": "Tequila, lime and jalapeno | Spiciness: Unknown",
+      "price": 0.6,
+      "modifiers": []
+    },
+    {
+      "id": 64,
+      "name": "Caribbean Jerk",
+      "description": "Island spices and peppers | Spiciness: Mild",
+      "price": 0.6,
+      "modifiers": []
+    },
+    {
+      "id": 65,
+      "name": "Nashville Hot",
+      "description": "Spicy chili pepper with a hint of smoke | Spiciness: Hot",
+      "price": 0.6,
+      "modifiers": []
+    },
+    {
+      "id": 66,
+      "name": "Buffalo (Dry Seasoning)",
+      "description": "Classic heat with a buttery finish | Spiciness: Hot",
+      "price": 0.6,
+      "modifiers": []
+    },
+    {
+      "id": 67,
+      "name": "Chipotle BBQ (Dry Seasoning)",
+      "description": "Fire roasted pepper with BBQ flavors | Spiciness: Hot",
+      "price": 0.6,
+      "modifiers": []
+    },
+    {
+      "id": 68,
+      "name": "Hot",
+      "description": "Buffalo with major heat | Spiciness: Hot",
+      "price": 0.6,
+      "modifiers": []
+    },
+    {
+      "id": 69,
+      "name": "Mango Habanero™",
+      "description": "Habanero heat with a touch of sweet | Spiciness: Hot",
+      "price": 0.6,
+      "modifiers": []
+    },
+    {
+      "id": 70,
+      "name": "Original Buffalo",
+      "description": "House-made buttery blend of hot sauce and spices | Spiciness: Hot",
+      "price": 0.6,
+      "modifiers": []
+    },
+    {
+      "id": 71,
+      "name": "Thai Curry",
+      "description": "Spicy and savory with curry flavor | Spiciness: Mild",
+      "price": 0.6,
+      "modifiers": []
+    },
+    {
+      "id": 72,
+      "name": "Blazin'® Knockout",
+      "description": "A fiery sauce made with nine different hot peppers | Spiciness: Hot",
+      "price": 0.6,
+      "modifiers": []
+    },
+    {
+      "id": 73,
+      "name": "Wild®",
+      "description": "Buffalo with intense heat | Spiciness: Hot",
+      "price": 0.6,
+      "modifiers": []
+    },
+    {
+      "id": 74,
+      "name": "Desert Heat® (Dry Seasoning)",
+      "description": "Fiery pepper with a touch of smoke | Spiciness: Hot",
+      "price": 0.6,
+      "modifiers": []
+    },
+    {
+      "id": 75,
+      "name": "New York-Style Cheesecake",
+      "description": "New York style cheesecake with caramel sauce | Spiciness: Unknown",
+      "price": 6.99,
+      "modifiers": [
+        {
+          "id": 1,
+          "name": "Options",
+          "options": [
+            "Caramel Syrup",
+            "No Caramel Syrup"
+          ],
+          "defaultOption": "Caramel Syrup",
+          "priceAdjustment": {},
+          "maxAmount": 1
+        }
+      ]
+    },
+    {
+      "id": 76,
+      "name": "Triple Chocolate Chip Cookie",
+      "description": "A buttery cookie packed with milk chocolate chunks, white chocolate chunks and dark chocolate chunks | Spiciness: Unknown",
+      "price": 1.99,
+      "modifiers": []
+    },
+    {
+      "id": 77,
+      "name": "Ghirardelli Chocolate Chunk Brownie",
+      "description": "A rich, chocolate fudge brownie topped with Ghirardelli®️ chocolate chunks | Spiciness: Unknown",
+      "price": 2.99,
+      "modifiers": []
+    },
+    {
+      "id": 78,
+      "name": "Dessert Bundle",
+      "description": "10 Triple Chocolate Chip Cookies and 10 Chocolate Chunk Brownies | Spiciness: Unknown",
+      "price": 63.69,
+      "modifiers": []
+    }
+  ]
+}

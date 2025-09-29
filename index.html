@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Drive Thru AI Voice Assistant</title>
+    <!-- Import map to tell browser where to find npm modules -->
+    <script type="importmap">
+      {
+        "imports": {
+          "livekit-client": "https://esm.sh/livekit-client",
+          "ultravox-client": "https://esm.sh/ultravox-client",
+          "socket.io-client": "https://cdn.socket.io/4.7.2/socket.io.esm.min.js"
+        }
+      }
+    </script>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <div class="container">
+      <header>
+        <h1>Drive Thru AI Voice Assistant</h1>
+      </header>
+
+      <main class="main-content">
+        <div class="connection-controls">
+          <div class="input-group" style="display: none">
+            <!-- Hidden input field since we're getting the URL from the backend -->
+            <input type="hidden" id="joinUrl" />
+          </div>
+
+          <div class="button-group">
+            <button id="startCall" class="primary-button">Start Call</button>
+            <button id="endCall" class="secondary-button">End Call</button>
+          </div>
+
+          <div class="status-indicators">
+            <div class="status-indicator">
+              <span>Status:</span>
+              <span id="callStatus" class="status-text">Disconnected</span>
+            </div>
+          </div>
+        </div>
+
+        <div class="three-pane-layout">
+          <div class="menu-section">
+            <h2>Restaurant Menu</h2>
+            <div class="menu-board">
+              <div id="menuItems" class="menu-items">
+                <p class="note">Loading menu...</p>
+              </div>
+            </div>
+          </div>
+
+          <div class="conversation-panel">
+            <h2>Conversation</h2>
+            <div id="callTranscript" class="transcript-container"></div>
+          </div>
+
+          <div class="order-panel">
+            <h2>Current Order</h2>
+            <div id="currentOrder" class="order-container">
+              <p class="note">
+                No active order. Start a call to place an order.
+              </p>
+            </div>
+          </div>
+        </div>
+      </main>
+
+    </div>
+
+    <script type="module" src="script.js"></script>
+  </body>
+</html>

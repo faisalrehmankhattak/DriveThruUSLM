@@ -1,0 +1,564 @@
+{
+  "items": [
+    {
+      "id": 1,
+      "name": "Espresso",
+      "description": "A concentrated coffee beverage brewed by forcing hot water under pressure through finely-ground coffee beans.",
+      "price": 3.5,
+      "modifiers": [
+        {
+          "id": 1,
+          "name": "Size",
+          "options": ["Single", "Double", "Triple"],
+          "defaultOption": "Single",
+          "priceAdjustment": { "Double": 1.0, "Triple": 1.5 },
+          "maxAmount": 1
+        },
+        {
+          "id": 2,
+          "name": "Temperature",
+          "options": ["Hot", "Extra Hot"],
+          "defaultOption": "Hot",
+          "priceAdjustment": { "Extra Hot": 0.0 },
+          "maxAmount": 1
+        },
+        {
+          "id": 3,
+          "name": "Add Shot",
+          "options": ["Extra Shot"],
+          "defaultOption": "None",
+          "priceAdjustment": { "Extra Shot": 0.75 },
+          "maxAmount": 1
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Cappuccino",
+      "description": "An espresso-based coffee drink prepared with steamed milk foam.",
+      "price": 4.5,
+      "modifiers": [
+        {
+          "id": 1,
+          "name": "Size",
+          "options": ["Small", "Medium", "Large"],
+          "defaultOption": "Medium",
+          "priceAdjustment": { "Small": -0.5, "Large": 0.5 },
+          "maxAmount": 1
+        },
+        {
+          "id": 2,
+          "name": "Milk Type",
+          "options": [
+            "Whole Milk",
+            "2% Milk",
+            "Skim Milk",
+            "Almond Milk",
+            "Oat Milk"
+          ],
+          "defaultOption": "Whole Milk",
+          "priceAdjustment": { "Almond Milk": 0.5, "Oat Milk": 0.5 },
+          "maxAmount": 1
+        },
+        {
+          "id": 3,
+          "name": "Foam Level",
+          "options": ["Light", "Regular", "Extra"],
+          "defaultOption": "Regular",
+          "priceAdjustment": {},
+          "maxAmount": 1
+        },
+        {
+          "id": 4,
+          "name": "Add Flavor",
+          "options": ["None", "Vanilla", "Caramel", "Hazelnut", "Chocolate"],
+          "defaultOption": "None",
+          "priceAdjustment": {
+            "Vanilla": 0.5,
+            "Caramel": 0.5,
+            "Hazelnut": 0.5,
+            "Chocolate": 0.5
+          },
+          "maxAmount": 2
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Iced Coffee",
+      "description": "Chilled coffee served with ice, optional milk and sweetener.",
+      "price": 4.0,
+      "modifiers": [
+        {
+          "id": 1,
+          "name": "Size",
+          "options": ["Small", "Medium", "Large"],
+          "defaultOption": "Medium",
+          "priceAdjustment": { "Small": -0.5, "Large": 0.5 },
+          "maxAmount": 1
+        },
+        {
+          "id": 2,
+          "name": "Ice Level",
+          "options": ["Light", "Regular", "Extra"],
+          "defaultOption": "Regular",
+          "priceAdjustment": {},
+          "maxAmount": 1
+        },
+        {
+          "id": 3,
+          "name": "Sweetener",
+          "options": ["None", "Sugar", "Honey", "Artificial Sweetener"],
+          "defaultOption": "None",
+          "priceAdjustment": { "Honey": 0.25 },
+          "maxAmount": 1
+        },
+        {
+          "id": 4,
+          "name": "Milk",
+          "options": [
+            "None",
+            "Whole Milk",
+            "2% Milk",
+            "Skim Milk",
+            "Almond Milk",
+            "Oat Milk"
+          ],
+          "defaultOption": "None",
+          "priceAdjustment": { "Almond Milk": 0.5, "Oat Milk": 0.5 },
+          "maxAmount": 1
+        },
+        {
+          "id": 5,
+          "name": "Add Flavor",
+          "options": ["None", "Vanilla", "Caramel", "Hazelnut", "Chocolate"],
+          "defaultOption": "None",
+          "priceAdjustment": {
+            "Vanilla": 0.5,
+            "Caramel": 0.5,
+            "Hazelnut": 0.5,
+            "Chocolate": 0.5
+          },
+          "maxAmount": 2
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Avocado Toast",
+      "description": "Toasted artisan bread topped with mashed avocado, cherry tomatoes, microgreens, and a sprinkle of sea salt.",
+      "price": 8.5,
+      "modifiers": [
+        {
+          "id": 1,
+          "name": "Bread Type",
+          "options": ["Sourdough", "Whole Grain", "Gluten-Free"],
+          "defaultOption": "Sourdough",
+          "priceAdjustment": { "Gluten-Free": 1.0 },
+          "maxAmount": 1
+        },
+        {
+          "id": 2,
+          "name": "Add Protein",
+          "options": ["None", "Poached Egg", "Smoked Salmon", "Bacon"],
+          "defaultOption": "None",
+          "priceAdjustment": {
+            "Poached Egg": 1.5,
+            "Smoked Salmon": 3.0,
+            "Bacon": 2.0
+          },
+          "maxAmount": 1
+        },
+        {
+          "id": 3,
+          "name": "Extras",
+          "options": [
+            "None",
+            "Extra Avocado",
+            "Feta Cheese",
+            "Red Pepper Flakes"
+          ],
+          "defaultOption": "None",
+          "priceAdjustment": {
+            "Extra Avocado": 1.5,
+            "Feta Cheese": 1.0,
+            "Red Pepper Flakes": 0.0
+          },
+          "maxAmount": 3
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Chicken Caesar Wrap",
+      "description": "Grilled chicken, romaine lettuce, parmesan cheese, and Caesar dressing wrapped in a flour tortilla.",
+      "price": 9.5,
+      "modifiers": [
+        {
+          "id": 1,
+          "name": "Wrap Type",
+          "options": ["Flour", "Whole Wheat", "Spinach", "Gluten-Free"],
+          "defaultOption": "Flour",
+          "priceAdjustment": { "Gluten-Free": 1.0 },
+          "maxAmount": 1
+        },
+        {
+          "id": 2,
+          "name": "Protein Option",
+          "options": ["Grilled Chicken", "Crispy Chicken", "Avocado"],
+          "defaultOption": "Grilled Chicken",
+          "priceAdjustment": { "Crispy Chicken": 0.5 },
+          "maxAmount": 1
+        },
+        {
+          "id": 3,
+          "name": "Dressing",
+          "options": ["Regular", "Light", "On the Side", "None"],
+          "defaultOption": "Regular",
+          "priceAdjustment": {},
+          "maxAmount": 1
+        },
+        {
+          "id": 4,
+          "name": "Add Bacon",
+          "options": ["Yes"],
+          "defaultOption": "None",
+          "priceAdjustment": { "Yes": 1.5 },
+          "maxAmount": 1
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Blueberry Muffin",
+      "description": "Freshly baked muffin loaded with juicy blueberries and topped with a crunchy streusel topping.",
+      "price": 3.75,
+      "modifiers": [
+        {
+          "id": 1,
+          "name": "Warmed",
+          "options": ["Yes"],
+          "defaultOption": "None",
+          "priceAdjustment": { "Yes": 0.0 },
+          "maxAmount": 1
+        },
+        {
+          "id": 2,
+          "name": "Add Butter",
+          "options": ["Yes"],
+          "defaultOption": "None",
+          "priceAdjustment": { "Yes": 0.0 },
+          "maxAmount": 1
+        },
+        {
+          "id": 3,
+          "name": "Add Spread",
+          "options": ["None", "Cream Cheese", "Almond Butter", "Jam"],
+          "defaultOption": "None",
+          "priceAdjustment": {
+            "Cream Cheese": 0.75,
+            "Almond Butter": 1.0,
+            "Jam": 0.5
+          },
+          "maxAmount": 1
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "name": "Turkey Club Sandwich",
+      "description": "Classic club with roasted turkey, bacon, lettuce, tomato, and mayo served on your choice of bread.",
+      "price": 10.0,
+      "modifiers": [
+        {
+          "id": 1,
+          "name": "Bread Type",
+          "options": ["Sourdough", "Whole Wheat", "Rye", "Gluten-Free"],
+          "defaultOption": "Sourdough",
+          "priceAdjustment": { "Gluten-Free": 1.0 },
+          "maxAmount": 1
+        },
+        {
+          "id": 2,
+          "name": "Cheese",
+          "options": ["None", "Cheddar", "Swiss", "Provolone"],
+          "defaultOption": "Cheddar",
+          "priceAdjustment": { "Swiss": 0.5, "Provolone": 0.5 },
+          "maxAmount": 1
+        },
+        {
+          "id": 3,
+          "name": "Extras",
+          "options": ["None", "Extra Bacon", "Avocado", "Pickles"],
+          "defaultOption": "None",
+          "priceAdjustment": {
+            "Extra Bacon": 1.5,
+            "Avocado": 1.0,
+            "Pickles": 0.5
+          },
+          "maxAmount": 2
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "name": "Veggie Panini",
+      "description": "Grilled panini with zucchini, roasted peppers, spinach, mozzarella, and pesto.",
+      "price": 9.0,
+      "modifiers": [
+        {
+          "id": 1,
+          "name": "Bread Type",
+          "options": ["Ciabatta", "Whole Grain", "Gluten-Free"],
+          "defaultOption": "Ciabatta",
+          "priceAdjustment": { "Gluten-Free": 1.0 },
+          "maxAmount": 1
+        },
+        {
+          "id": 2,
+          "name": "Add Protein",
+          "options": ["None", "Grilled Chicken", "Turkey"],
+          "defaultOption": "None",
+          "priceAdjustment": { "Grilled Chicken": 2.0, "Turkey": 2.0 },
+          "maxAmount": 1
+        },
+        {
+          "id": 3,
+          "name": "Cheese",
+          "options": ["Mozzarella", "Cheddar", "Swiss", "No Cheese"],
+          "defaultOption": "Mozzarella",
+          "priceAdjustment": {},
+          "maxAmount": 1
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "name": "Ham & Cheese Croissant",
+      "description": "Flaky croissant filled with ham and melted Swiss cheese, served warm.",
+      "price": 6.5,
+      "modifiers": [
+        {
+          "id": 1,
+          "name": "Cheese",
+          "options": ["Swiss", "Cheddar", "Provolone"],
+          "defaultOption": "Swiss",
+          "priceAdjustment": { "Cheddar": 0.5, "Provolone": 0.5 },
+          "maxAmount": 1
+        },
+        {
+          "id": 2,
+          "name": "Add Egg",
+          "options": ["Yes"],
+          "defaultOption": "None",
+          "priceAdjustment": { "Yes": 1.0 },
+          "maxAmount": 1
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "name": "Caprese Sandwich",
+      "description": "Fresh mozzarella, tomato, basil, and balsamic glaze on ciabatta.",
+      "price": 8.5,
+      "modifiers": [
+        {
+          "id": 1,
+          "name": "Bread Type",
+          "options": ["Ciabatta", "Baguette", "Gluten-Free"],
+          "defaultOption": "Ciabatta",
+          "priceAdjustment": { "Gluten-Free": 1.0 },
+          "maxAmount": 1
+        },
+        {
+          "id": 2,
+          "name": "Extras",
+          "options": ["None", "Avocado", "Pesto", "Extra Mozzarella"],
+          "defaultOption": "None",
+          "priceAdjustment": {
+            "Avocado": 1.0,
+            "Pesto": 0.75,
+            "Extra Mozzarella": 1.5
+          },
+          "maxAmount": 2
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "name": "Chai Latte",
+      "description": "A spiced black tea blend with steamed milk and a touch of sweetness.",
+      "price": 4.75,
+      "modifiers": [
+        {
+          "id": 1,
+          "name": "Size",
+          "options": ["Small", "Medium", "Large"],
+          "defaultOption": "Medium",
+          "priceAdjustment": { "Small": -0.5, "Large": 0.75 },
+          "maxAmount": 1
+        },
+        {
+          "id": 2,
+          "name": "Milk Type",
+          "options": ["Whole Milk", "2% Milk", "Skim Milk", "Almond Milk", "Oat Milk"],
+          "defaultOption": "Whole Milk",
+          "priceAdjustment": { "Almond Milk": 0.5, "Oat Milk": 0.5 },
+          "maxAmount": 1
+        },
+        {
+          "id": 3,
+          "name": "Sweetness",
+          "options": ["Unsweetened", "Regular", "Extra Sweet"],
+          "defaultOption": "Regular",
+          "priceAdjustment": {},
+          "maxAmount": 1
+        },
+        {
+          "id": 4,
+          "name": "Add Espresso Shot",
+          "options": ["Yes"],
+          "defaultOption": "None",
+          "priceAdjustment": { "Yes": 1.0 },
+          "maxAmount": 1
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "name": "Matcha Latte",
+      "description": "Japanese green tea powder whisked with steamed milk, smooth and earthy.",
+      "price": 5.0,
+      "modifiers": [
+        {
+          "id": 1,
+          "name": "Size",
+          "options": ["Small", "Medium", "Large"],
+          "defaultOption": "Medium",
+          "priceAdjustment": { "Small": -0.5, "Large": 0.75 },
+          "maxAmount": 1
+        },
+        {
+          "id": 2,
+          "name": "Milk Type",
+          "options": ["Whole Milk", "2% Milk", "Skim Milk", "Almond Milk", "Oat Milk"],
+          "defaultOption": "Oat Milk",
+          "priceAdjustment": { "Almond Milk": 0.5, "Oat Milk": 0.5 },
+          "maxAmount": 1
+        },
+        {
+          "id": 3,
+          "name": "Sweetness",
+          "options": ["Unsweetened", "Lightly Sweet", "Regular"],
+          "defaultOption": "Lightly Sweet",
+          "priceAdjustment": {},
+          "maxAmount": 1
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "name": "Iced Tea",
+      "description": "Refreshing black tea served over ice, with optional flavors.",
+      "price": 3.75,
+      "modifiers": [
+        {
+          "id": 1,
+          "name": "Size",
+          "options": ["Small", "Medium", "Large"],
+          "defaultOption": "Medium",
+          "priceAdjustment": { "Small": -0.5, "Large": 0.5 },
+          "maxAmount": 1
+        },
+        {
+          "id": 2,
+          "name": "Sweetness",
+          "options": ["Unsweetened", "Lightly Sweet", "Sweet"],
+          "defaultOption": "Unsweetened",
+          "priceAdjustment": {},
+          "maxAmount": 1
+        },
+        {
+          "id": 3,
+          "name": "Flavor",
+          "options": ["None", "Lemon", "Peach", "Raspberry"],
+          "defaultOption": "None",
+          "priceAdjustment": {
+            "Lemon": 0.5,
+            "Peach": 0.5,
+            "Raspberry": 0.5
+          },
+          "maxAmount": 1
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "name": "Berry Smoothie",
+      "description": "Blend of strawberries, blueberries, and raspberries with yogurt and ice.",
+      "price": 6.0,
+      "modifiers": [
+        {
+          "id": 1,
+          "name": "Size",
+          "options": ["Regular", "Large"],
+          "defaultOption": "Regular",
+          "priceAdjustment": { "Large": 1.0 },
+          "maxAmount": 1
+        },
+        {
+          "id": 2,
+          "name": "Base",
+          "options": ["Yogurt", "Almond Milk", "Oat Milk"],
+          "defaultOption": "Yogurt",
+          "priceAdjustment": { "Almond Milk": 0.5, "Oat Milk": 0.5 },
+          "maxAmount": 1
+        },
+        {
+          "id": 3,
+          "name": "Boost",
+          "options": ["None", "Protein Powder", "Chia Seeds", "Flax Seeds"],
+          "defaultOption": "None",
+          "priceAdjustment": {
+            "Protein Powder": 1.0,
+            "Chia Seeds": 0.75,
+            "Flax Seeds": 0.75
+          },
+          "maxAmount": 2
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "name": "Mocha",
+      "description": "Espresso combined with chocolate syrup and steamed milk, topped with whipped cream.",
+      "price": 5.25,
+      "modifiers": [
+        {
+          "id": 1,
+          "name": "Size",
+          "options": ["Small", "Medium", "Large"],
+          "defaultOption": "Medium",
+          "priceAdjustment": { "Small": -0.5, "Large": 0.75 },
+          "maxAmount": 1
+        },
+        {
+          "id": 2,
+          "name": "Milk Type",
+          "options": ["Whole Milk", "2% Milk", "Skim Milk", "Almond Milk", "Oat Milk"],
+          "defaultOption": "2% Milk",
+          "priceAdjustment": { "Almond Milk": 0.5, "Oat Milk": 0.5 },
+          "maxAmount": 1
+        },
+        {
+          "id": 3,
+          "name": "Toppings",
+          "options": ["Whipped Cream", "Cocoa Powder", "Cinnamon", "None"],
+          "defaultOption": "Whipped Cream",
+          "priceAdjustment": {},
+          "maxAmount": 2
+        }
+      ]
+    }
+  ]
+}
