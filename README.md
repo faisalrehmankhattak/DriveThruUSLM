@@ -389,18 +389,6 @@ const pipeline = new Pipeline({
   enablePerformanceTracking: false, // Skip timing overhead
   autoResolveMenuItems: true     // Enable AI resolution
 });
-```
-
----
-
-## 📞 Support & Documentation
-
-- **Architecture**: See `ARCHITECTURE_REVOLUTION.md`
-- **Design Patterns**: See `ACTION_DESIGN_PATTERN.md`  
-- **Testing Guide**: See `TESTING_REVOLUTION.md`
-- **Project Summary**: See `ASSIGNMENT_SUMMARY_STEVE_JOBS.md`
-
----
 
 ## 🎯 The Revolution
 
