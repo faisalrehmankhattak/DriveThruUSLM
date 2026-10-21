@@ -389,6 +389,7 @@ const pipeline = new Pipeline({
   enablePerformanceTracking: false, // Skip timing overhead
   autoResolveMenuItems: true     // Enable AI resolution
 });
+```
 
 ## 🎯 The Revolution
 
