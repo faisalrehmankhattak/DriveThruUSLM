@@ -1,7 +1,7 @@
 # Ultravox Voice Commerce Platform
 ## AI-Powered Order Correction System
 
-> **"We didn't just build a voice assistant. We built the future of conversational commerce."**
+> **"I didn't just build a voice assistant. I built the future of conversational commerce."**
 
 A production-grade voice commerce platform featuring **AI-powered order correction**, **hybrid search**, and **functional composition architecture**. Built for enterprise scale with complete observability and sub-10ms latency.
 
@@ -401,5 +401,5 @@ This isn't just a voice assistant. It's a **revolutionary approach to building c
 - **Complete observability** → Production confidence
 - **Sub-10ms latency** → Real-time performance
 
-**We didn't just meet the requirements. We redefined what's possible.**
+**I didn't just meet the requirements. I redefined what's possible.**
 
