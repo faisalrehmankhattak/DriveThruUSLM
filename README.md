@@ -403,6 +403,3 @@ This isn't just a voice assistant. It's a **revolutionary approach to building c
 
 **We didn't just meet the requirements. We redefined what's possible.**
 
----
-
-*Built with ❤️ by the Voice Commerce Revolution Team*
